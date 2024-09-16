@@ -1,5 +1,4 @@
 # Bronwen's Notes
 
-# This is an H1 header (largest)
-
-###### This is an H6 header (smallest)
+## Summary
+This repo will hold all [Bronwen's](https://github.com/BronwenM) notes from the LHL Web Dev course 
